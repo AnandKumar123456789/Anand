@@ -1,0 +1,8 @@
+1->HTML ---> 1.html is the code that is used to structure a web page and its content.
+          2.Hyper text markup language.
+
+2->HTML TAGS --->the component used to design the structure of websites are called html tags.
+
+
+
+3-
